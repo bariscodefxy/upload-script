@@ -1,1 +1,7 @@
 Go brr
+
+Don't forget create named file 'file/.htaccess' and write this:
+```
+php_flag engine off
+```
+For security 🤓
